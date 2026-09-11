@@ -22,7 +22,7 @@ import os
 NICKNAME = "Yashu"
 
 # Pick one — "3 am thoughts" by Naalayak, or "Slipping Through My Fingers"
-TRACK_PATH = "birthday_track.mp3"  # <-- put the chosen song here, same folder as this script
+TRACK_PATH = "Cigarettes After Sex - K. (Live on KEXP) - KEXP (youtube).mp3"  # <-- put the chosen song here, same folder as this script
 
 SHAYARI = """
 [Paste your Shayari for Yashu here —
