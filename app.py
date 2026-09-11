@@ -32,12 +32,13 @@ Mere bujhne ka nazzaara karne aa jaate honge
 
 # Paste real photo URLs (or local filenames) here, one per caption below
 GALLERY = [
-    {"url": "PASTE_PHOTO_URL_1", "caption": "The Sad Constant Face"},
-    {"url": "PASTE_PHOTO_URL_2", "caption": "God of Organic Chem"},
-    {"url": "PASTE_PHOTO_URL_3", "caption": "Team Conrad Enthusiast"},
-    {"url": "PASTE_PHOTO_URL_4", "caption": "VMC Patna Veteran"},
-    {"url": "PASTE_PHOTO_URL_5", "caption": "Restaurant Pour Tous Regular"},
-    {"url": "PASTE_PHOTO_URL_6", "caption": "NIT Delhi Era"},
+    {"url": "0C469927-A190-492B-B90F-9D3467038C22.JPG", "caption": "The Sad Constant Face"},
+    {"url": "9D6FCA70-6F40-4B9B-A2C0-3A6F1DFDEC9C.JPG", "caption": "God of Organic Chem"},
+    {"url": "9F3C227B-541E-450C-A592-1C3BA4627D45.JPG", "caption": "Team Conrad Enthusiast"},
+    {"url": "92833811-973C-46B4-9E49-7E2F6365624F.JPG", "caption": "VMC Patna Veteran"},
+    {"url": "1000401555.jpg", "caption": "Restaurant Pour Tous Regular"},
+    {"url": "1000481290.jpg", "caption": "NIT Delhi Era"},
+     {"url": "F17D1ADB-12A8-43E2-8329-C6A0CABCB20B.JPG", "caption": "NIT Delhi Era"},
 ]
 
 # Quiz bank — add more dicts in this exact shape to grow past 10.
