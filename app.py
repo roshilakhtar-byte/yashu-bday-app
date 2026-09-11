@@ -25,8 +25,8 @@ NICKNAME = "Yashu"
 TRACK_PATH = "Cigarettes After Sex - K. (Live on KEXP) - KEXP (youtube).mp3"  # <-- put the chosen song here, same folder as this script
 
 SHAYARI = """
-[Paste your Shayari for Yashu here —
-each line will show up exactly as you write it.]
+[haam hue khush-baash yahan ke mere paas aa jaate hain
+Mere bujhne ka nazzaara karne aa jaate honge]
 """
 
 # Paste real photo URLs (or local filenames) here, one per caption below
